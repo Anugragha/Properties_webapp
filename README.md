@@ -1,6 +1,6 @@
 #Real Estate Portfolio Analyzer
 
-This is a web application that allows users to input a portfolio of real estate properties, analyze key financial metrics such as income, expenses, tax, and EMI payments, and visualize the data using interactive charts.
+This is a web application that allows users to input a portfolio of real estate properties as a csv file, analyze key financial metrics such as income, expenses, tax, and EMI payments, and visualize the data using interactive charts.
 
 #Features
 
